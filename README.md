@@ -1,1 +1,2 @@
 test secret ='sahgdjasj436897326498JFJJHGFFjh24659237864nbfghjksgfkjgkjgsfk"
+aws_session_token=jgkjdsgjh5634708689034
